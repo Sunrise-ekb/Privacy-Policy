@@ -1,4 +1,4 @@
-89**Privacy Policy**
+**Privacy Policy**
 
 This privacy policy applies to the Auto Backup Hook app for mobile devices, together with any related services operated by Sunrise (collectively, the "Application"). Sunrise is hereby referred to as the "Service Provider".
 
